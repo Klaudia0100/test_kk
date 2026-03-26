@@ -1,3 +1,3 @@
 # test_kk
 
-to jest wpis testowyy
+to jest wpis testowy, dodano poprawke
