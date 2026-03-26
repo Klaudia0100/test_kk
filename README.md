@@ -1,3 +1,3 @@
 # test_kk
 
-to jest wpis testowy, dodano poprawke
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.
